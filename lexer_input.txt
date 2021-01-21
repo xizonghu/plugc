@@ -1,0 +1,1 @@
+void main() {char cc="123";printf("hello, world\n");}
