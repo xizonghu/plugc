@@ -3,7 +3,7 @@ package main
 import (
 	log "github.com/sirupsen/logrus"
 	"os"
-	"plugc/compile"
+	"plugc/compiler"
 	"plugc/module/logutils"
 )
 
@@ -15,6 +15,6 @@ func init() {
 }
 
 func main() {
-	prepare := compile.PlugcPreparerNew("test.plc")
+	prepare := compiler.PlugcPreparerNew("test.plc")
 	prepare.Run()
 }

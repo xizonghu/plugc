@@ -1,0 +1,33 @@
+token: index=    1, line=    1, type=  key, val= void
+token: index=    2, line=    1, type=  sym, val= sayHi
+token: index=    3, line=    1, type=  div, val= (
+token: index=    4, line=    1, type=  div, val= )
+token: index=    5, line=    2, type=  div, val= {
+token: index=    6, line=    2, type=  key, val= int
+token: index=    7, line=    2, type=  sym, val= a
+token: index=    8, line=    3, type=  div, val= ;
+token: index=    9, line=    3, type=  sym, val= a
+token: index=   10, line=    3, type=   op, val= =
+token: index=   11, line=    3, type=  sym, val= a
+token: index=   12, line=    3, type=   op, val= +
+token: index=   13, line=    3, type=const, val= 3
+token: index=   14, line=    4, type=  div, val= ;
+token: index=   15, line=    4, type=  sym, val= printf
+token: index=   16, line=    4, type=  div, val= (
+token: index=   17, line=    4, type=const, val= "hello, world: %d\n"
+token: index=   18, line=    4, type=  sym, val= ,
+token: index=   19, line=    4, type=  sym, val= a
+token: index=   20, line=    4, type=  div, val= )
+token: index=   21, line=    5, type=  div, val= ;
+token: index=   22, line=    7, type=  div, val= }
+token: index=   23, line=    7, type=  key, val= void
+token: index=   24, line=    7, type=  sym, val= main
+token: index=   25, line=    7, type=  div, val= (
+token: index=   26, line=    7, type=  div, val= )
+token: index=   27, line=    8, type=  div, val= {
+token: index=   28, line=    8, type=  sym, val= sayHi
+token: index=   29, line=    8, type=  div, val= (
+token: index=   30, line=    8, type=  div, val= )
+token: index=   31, line=    9, type=  div, val= ;
+token: index=   32, line=    9, type=  div, val= }
+token: index=    0, line=    0, type=  end, val= 

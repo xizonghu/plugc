@@ -1,0 +1,32 @@
+i=    0, line=    1, str= void
+i=    1, line=    1, str=sayHi
+i=    2, line=    1, str=    (
+i=    3, line=    1, str=    )
+i=    4, line=    2, str=    {
+i=    5, line=    2, str=  int
+i=    6, line=    2, str=    a
+i=    7, line=    3, str=    ;
+i=    8, line=    3, str=    a
+i=    9, line=    3, str=    =
+i=   10, line=    3, str=    a
+i=   11, line=    3, str=    +
+i=   12, line=    3, str=    3
+i=   13, line=    4, str=    ;
+i=   14, line=    4, str=printf
+i=   15, line=    4, str=    (
+i=   16, line=    4, str="hello, world: %d\n"
+i=   17, line=    4, str=    ,
+i=   18, line=    4, str=    a
+i=   19, line=    4, str=    )
+i=   20, line=    5, str=    ;
+i=   21, line=    7, str=    }
+i=   22, line=    7, str= void
+i=   23, line=    7, str= main
+i=   24, line=    7, str=    (
+i=   25, line=    7, str=    )
+i=   26, line=    8, str=    {
+i=   27, line=    8, str=sayHi
+i=   28, line=    8, str=    (
+i=   29, line=    8, str=    )
+i=   30, line=    9, str=    ;
+i=   31, line=    9, str=    }
